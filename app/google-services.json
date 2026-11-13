@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232166618648",
+    "project_id": "lipago",
+    "storage_bucket": "lipago.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232166618648:android:c5818785cdd7c622f0756d",
+        "android_client_info": {
+          "package_name": "com.lipago.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaiStsBItEAsCgmn44Iuc8f8wd5dgsXaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
